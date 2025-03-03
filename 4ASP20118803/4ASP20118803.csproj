@@ -67,24 +67,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="2formulario.aspx" />
     <Content Include="Dimensional.aspx" />
+    <Content Include="FORMULARIOO2.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2formulario.aspx.cs">
-      <DependentUpon>2formulario.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="2formulario.aspx.designer.cs">
-      <DependentUpon>2formulario.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Dimensional.aspx.cs">
       <DependentUpon>Dimensional.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Dimensional.aspx.designer.cs">
       <DependentUpon>Dimensional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOO2.aspx.cs">
+      <DependentUpon>FORMULARIOO2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOO2.aspx.designer.cs">
+      <DependentUpon>FORMULARIOO2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

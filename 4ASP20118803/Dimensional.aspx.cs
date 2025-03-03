@@ -26,7 +26,7 @@ namespace _4ASP20118803
             // Save the array in a session variable for future use.
             Session["strCategoryArray"] = strCategoryArray;
             // Go to the next page.
-            Response.Redirect("CategoryUseArraySessionVariables.aspx");
+            Response.Redirect("FORMULARIOO2.aspx");
         }
     }
 }
